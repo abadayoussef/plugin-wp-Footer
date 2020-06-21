@@ -4,7 +4,7 @@
 Plugin qui vous permet de personnaliser le bas de page de votre site WordPress, en ajoutant un texte spécifique et le lien des icônes Facebook et Twitter et votre e-mail, où vous pouvez modifier ces informations dans le paramètre du plugin.
 
 ## comment installer le plugin
-1. telecharger le plugin localement en cliquant [ici](https://github.com/ahmedBou/plugin-wp-Footer/blob/master/abufooter.zip?raw=true).
+1. telecharger le plugin localement en cliquant [**ici**](https://github.com/ahmedBou/plugin-wp-Footer/blob/master/abufooter.zip?raw=true).
 2. rendez vous sur votre wordpress dashboard puis allez sur : `Plugins > add new > upload plugin` puis cliquer sur **Choisir le fichier** et sélectionnez le fichier zip que vous venez de le telecharger.
 3. Apres le télechargement, cliquez sur **Activer**.
 
